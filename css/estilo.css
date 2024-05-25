@@ -5,9 +5,72 @@ body{
 .bordecentrado{
     background-color: #FFFFFF;
     border-radius: 15px 15px;
-    position: absolute;
-    left: 35%;
-    margin: -25 0 0 25px;
+    border: solid 15px  #FFFFFF;
+    left: 30%;
+    margin: 5% 30% 5% ;
     width: 500px;
     height: 565px;
+    text-align: center;
+}
+
+.centrado{
+    text-align: center;
+    font-size: 400%;
+    font-weight: 200%;
+}
+
+.parrafo{
+    text-align: center;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.p1{
+    text-align: left;
+    margin-top: -5%;
+    margin-left: 5%;
+}
+
+h1, h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.d0{
+    margin-top: -5%;
+}
+
+.d1{
+    margin-top: -5%;
+}
+
+.d2{
+    margin-top: 13%;
+}
+
+.d3{
+    margin-top: 5%;
+}
+
+.email{
+    margin-left: -80%;
+    font-size: 120%;
+}
+
+.email1{
+    font-size: 235%;
+    margin-left: 4%;
+    margin-top: 3%;
+    border-radius: 8px 8px;
+}
+
+.password{
+    margin-left: -75%;
+    font-size: 120%;
+}
+
+.password1{
+    font-size: 235%;
+    margin-left: 4%;
+    margin-top: 3%;
+    border-radius: 8px 8px;
 }
