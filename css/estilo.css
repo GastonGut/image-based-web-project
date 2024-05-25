@@ -72,6 +72,10 @@ input{
     box-sizing: border-box;
 }
 
+.boton:hover{
+    background: #4A88F4;
+}
+
 .boton{
     background-color: #367BF5;
 }
