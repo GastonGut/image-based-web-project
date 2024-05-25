@@ -44,33 +44,34 @@ h1, h2{
 }
 
 .d2{
-    margin-top: 13%;
+    margin-top: 10%;
 }
 
 .d3{
     margin-top: 5%;
 }
 
-.email{
-    margin-left: -80%;
-    font-size: 120%;
+form{
+    width: 100%;
+    margin-top: 5%;
 }
 
-.email1{
-    font-size: 235%;
-    margin-left: 4%;
-    margin-top: 3%;
-    border-radius: 8px 8px;
+label{
+    font-size: 20px;
+    display: block;
+    width: 90%;
+    text-align: left;
+    margin-left: 5%;
 }
 
-.password{
-    margin-left: -75%;
-    font-size: 120%;
+input{
+    width: 90%;
+    font-size: 35px;
+    margin-bottom: 20px;
+    border-radius: 5px 5px;
+    box-sizing: border-box;
 }
 
-.password1{
-    font-size: 235%;
-    margin-left: 4%;
-    margin-top: 3%;
-    border-radius: 8px 8px;
+.boton{
+    background-color: #367BF5;
 }
