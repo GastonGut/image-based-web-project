@@ -78,4 +78,7 @@ input{
 
 .boton{
     background-color: #367BF5;
+    color: white;
+    font-size: small;
+    padding: 16px;
 }
