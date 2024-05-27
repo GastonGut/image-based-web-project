@@ -9,7 +9,7 @@ body{
     left: 30%;
     margin: 5% 30% 5% ;
     width: 500px;
-    height: 565px;
+    height: 625px;
     text-align: center;
 }
 
@@ -62,11 +62,12 @@ label{
     width: 90%;
     text-align: left;
     margin-left: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 input{
     width: 90%;
-    font-size: 35px;
+    padding: 16px;
     margin-bottom: 20px;
     border-radius: 5px 5px;
     box-sizing: border-box;
@@ -82,3 +83,4 @@ input{
     font-size: small;
     padding: 16px;
 }
+
