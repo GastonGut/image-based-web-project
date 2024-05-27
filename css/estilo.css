@@ -62,7 +62,7 @@ label{
     width: 90%;
     text-align: left;
     margin-left: 5%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 
 input{
@@ -84,3 +84,8 @@ input{
     padding: 16px;
 }
 
+.jacquard-12-regular {
+    font-family: "Jacquard 12", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
