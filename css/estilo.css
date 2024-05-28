@@ -9,7 +9,7 @@ body{
     left: 30%;
     margin: 5% 30% 5% ;
     width: 500px;
-    height: 675px;
+    height: 620px;
     text-align: center;
 }
 
@@ -17,6 +17,7 @@ body{
     text-align: center;
     font-size: 400%;
     font-weight: 200%;
+    margin-top: -3%;
 }
 
 .parrafo{
@@ -40,7 +41,6 @@ h1, h2{
 
 .d0{
     margin-top: -2%;
-    border: solid 1px #ccc;
 }
 
 .d1{
@@ -94,3 +94,7 @@ input{
     font-style: normal;
   }
 
+  .imagen{
+    width: 45px;
+    padding: 0px 325px;
+  }
