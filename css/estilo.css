@@ -9,7 +9,7 @@ body{
     left: 30%;
     margin: 5% 30% 5% ;
     width: 500px;
-    height: 620px;
+    height: 630px;
     text-align: center;
 }
 
@@ -17,7 +17,7 @@ body{
     text-align: center;
     font-size: 400%;
     font-weight: 200%;
-    margin-top: -3%;
+    margin-top: -2%;
 }
 
 .parrafo{
@@ -94,7 +94,7 @@ input{
     font-style: normal;
   }
 
-  .imagen{
+.imagen{
     width: 45px;
     padding: 0px 325px;
-  }
+}
